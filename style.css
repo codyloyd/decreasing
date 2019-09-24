@@ -1,0 +1,15 @@
+body {
+  margin: 40px 50px;
+  font: 20px sans-serif;
+  color: white;
+  background-color: rgb(34, 34, 34);
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.contact {
+  text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+
+a {
+  font-weight: bold;
+}
